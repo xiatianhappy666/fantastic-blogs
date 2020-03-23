@@ -1,3 +1,7 @@
+## 实践jstack + dump
+https://www.cnblogs.com/wuchanming/p/7766994.html
+
+
 ## CPU 100% 排查优化实践
 
 jstack是java自带的一种堆栈跟踪工具。jstack用于打印出给定的java进程ID或core file或远程调试服务的Java堆栈信息。被程序员们常用来找出最耗cpu的线程并定位错误代码。
