@@ -112,6 +112,13 @@
 + [事务隔离+Spring](https://blog.csdn.net/soonfly/article/details/70305585)
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
 
+## 分布式事务
++ [从Seata手写分布式事务框架系列视频](https://www.bilibili.com/video/BV1aJ411Y73e?p=1)
++ [分布式事务Seata三种模式AT TCC Saga详解](https://juejin.im/post/6844903913691283469#heading-8)
++ [分布式事务 Seata TCC 模式深度解析](https://mp.weixin.qq.com/s/G9vkficqBSpmtGITgsJPgw)
++ [蚂蚁金服-如何选择分布式事务解决方案？](https://www.jiqizhixin.com/articles/2020-06-01-10)
++ [分布式一致性之两阶段提交协议、三阶提交协议](https://zhuanlan.zhihu.com/p/35616810)
+
 ### 索引&Tips
 + [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
 + [架构师之路——数据库索引为什么设计成这样？](https://mp.weixin.qq.com/s/YMbRJwyjutGMD1KpI_fS0A)
