@@ -104,10 +104,7 @@
 
 ## 数据库
 + [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb_lock.html)
-+ [4种事务的隔离级别，InnoDB如何巧妙实现？](https://mp.weixin.qq.com/s/x_7E2R2i27Ci5O7kLQF0UA)
 + [Innodb & MyISAM 区别](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Innodb&MyISAMDiff.md)
-+ [InnoDB的并发控制，锁，事务模型, MVCC, 快照读](https://mp.weixin.qq.com/s/R3yuitWpHHGWxsUcE0qIRQ)
-+ [Innodb 锁机制](https://mp.weixin.qq.com/s/wGOxro3uShp2q5w97azx5A)
 + [MySQL MVCC实现](http://www.sysdb.cn/index.php/2017/07/04/mysql-mvcc/#more-33)
 + [事务隔离+Spring](https://blog.csdn.net/soonfly/article/details/70305585)
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
@@ -121,8 +118,7 @@
 
 ### 索引&Tips
 + [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
-+ [架构师之路——数据库索引为什么设计成这样？](https://mp.weixin.qq.com/s/YMbRJwyjutGMD1KpI_fS0A)
 + [索引的创建与删除](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexCRUD.md)
 + [复合索引/联合索引](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/CompositeIndex.md)
 + [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
-+ [架构师之路——MyISAM与InnoDB的索引差异](https://mp.weixin.qq.com/s/FUXPXKfKyjxAvMUFHZm9UQ)
++ [架构师之路-Mysql系列文章](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Mysql_arch_wechat.md)
