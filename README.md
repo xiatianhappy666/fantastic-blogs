@@ -117,8 +117,8 @@
 + [分布式一致性之两阶段提交协议、三阶提交协议](https://zhuanlan.zhihu.com/p/35616810)
 
 ### 索引&Tips
-+ [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
 + [索引的创建与删除](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexCRUD.md)
 + [复合索引/联合索引](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/CompositeIndex.md)
 + [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
 + [架构师之路-Mysql系列文章](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Mysql_arch_wechat.md)
++ [鲁班学院-Mysql系列视频讲解（非常透彻）](https://www.bilibili.com/video/BV18A411E7Eb)

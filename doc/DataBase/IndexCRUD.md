@@ -4,7 +4,7 @@
 PRIMARY KEY索引和UNIQUE索引非常类似。事实上，PRIMARY KEY索引仅是一个具有名称PRIMARY的UNIQUE索引。这表示一个表只能包含一个PRIMARY KEY，因为一个表中不可能具有两个同名的索引。
 
 ## 创建索引
-在执行`CREAT TABLE`语句时可以创建索引，也可以单独用`CREATE INDEX`或`ALTER TABLE`来为表增加索引。
+在执行`CREATE TABLE`语句时可以创建索引，也可以单独用`CREATE INDEX`或`ALTER TABLE`来为表增加索引。
 
 ### ALTER TABLE
 ALTER TABLE用来创建普通索引、UNIQUE索引或PRIMARY KEY索引。
