@@ -110,6 +110,7 @@
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
 
 ## 分布式事务
++ [个人总结-根据以下资料](https://docs.google.com/document/d/1xEyk5HewbMSFE9C8feRsRafnxx5Hw2ysTS11xGWBxZQ/edit?usp=sharing)
 + [从Seata手写分布式事务框架系列视频](https://www.bilibili.com/video/BV1aJ411Y73e?p=1)
 + [分布式事务Seata三种模式AT TCC Saga详解](https://juejin.im/post/6844903913691283469#heading-8)
 + [分布式事务 Seata TCC 模式深度解析](https://mp.weixin.qq.com/s/G9vkficqBSpmtGITgsJPgw)
