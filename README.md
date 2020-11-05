@@ -102,13 +102,6 @@
 ## 编码
 + [魔鬼在细节中：Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## 数据库
-+ [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb_lock.html)
-+ [Innodb & MyISAM 区别](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Innodb&MyISAMDiff.md)
-+ [MySQL MVCC实现](http://www.sysdb.cn/index.php/2017/07/04/mysql-mvcc/#more-33)
-+ [事务隔离+Spring](https://blog.csdn.net/soonfly/article/details/70305585)
-+ [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
-
 ## 分布式事务
 + [个人总结-根据以下资料](https://docs.google.com/document/d/1xEyk5HewbMSFE9C8feRsRafnxx5Hw2ysTS11xGWBxZQ/edit?usp=sharing)
 + [从Seata手写分布式事务框架系列视频](https://www.bilibili.com/video/BV1aJ411Y73e?p=1)
@@ -117,9 +110,11 @@
 + [蚂蚁金服-如何选择分布式事务解决方案？](https://www.jiqizhixin.com/articles/2020-06-01-10)
 + [分布式一致性之两阶段提交协议、三阶提交协议](https://zhuanlan.zhihu.com/p/35616810)
 
-### 索引&Tips
+## Mysql数据库+索引
++ [鲁班学院-Mysql系列视频讲解（非常透彻）](https://www.bilibili.com/video/BV18A411E7Eb)
++ [架构师之路-Mysql系列文章](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Mysql_arch_wechat.md)
++ [Innodb & MyISAM 区别](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Innodb&MyISAMDiff.md)
 + [索引的创建与删除](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexCRUD.md)
 + [复合索引/联合索引](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/CompositeIndex.md)
 + [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
-+ [架构师之路-Mysql系列文章](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Mysql_arch_wechat.md)
-+ [鲁班学院-Mysql系列视频讲解（非常透彻）](https://www.bilibili.com/video/BV18A411E7Eb)
++ [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
