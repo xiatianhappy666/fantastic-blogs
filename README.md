@@ -102,6 +102,12 @@
 ## 编码
 + [魔鬼在细节中：Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+## NIO & Netty
++ [尚硅谷NIO视频(java nio线程精讲)](https://www.bilibili.com/video/BV14W411u7ro)
++ [HTTP、TCP和Socket的概念和原理及其区别](https://www.jianshu.com/p/947a2673102a)
++ [Netty到底是什么](https://juejin.im/post/6844903703183360008)
++ [通俗地讲，Netty 能做什么？](https://www.zhihu.com/question/24322387)
+
 ## 分布式事务
 + [个人总结-根据以下资料](https://docs.google.com/document/d/1xEyk5HewbMSFE9C8feRsRafnxx5Hw2ysTS11xGWBxZQ/edit?usp=sharing)
 + [从Seata手写分布式事务框架系列视频](https://www.bilibili.com/video/BV1aJ411Y73e?p=1)
@@ -118,3 +124,10 @@
 + [复合索引/联合索引](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/CompositeIndex.md)
 + [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
+
+
+## TODO
+- 基于Netty手写RPC框架/Web框架
+	- https://zhuanlan.zhihu.com/p/35720383
+	- https://zhuanlan.zhihu.com/p/36064672
+
