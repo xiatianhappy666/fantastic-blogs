@@ -105,6 +105,11 @@
 + [HTTP、TCP和Socket的概念和原理及其区别](https://www.jianshu.com/p/947a2673102a)
 + [Netty到底是什么](https://juejin.im/post/6844903703183360008)
 + [通俗地讲，Netty 能做什么？](https://www.zhihu.com/question/24322387)
++ [RPC和RESTful API入门篇](https://juejin.cn/post/6844903743322849287)
+
+## Netty实战：基于Netty手写RPC框架/Web框架
+	- https://zhuanlan.zhihu.com/p/35720383
+	- https://zhuanlan.zhihu.com/p/36064672
 
 ## 分布式事务
 + [个人总结-根据以下资料](https://docs.google.com/document/d/1xEyk5HewbMSFE9C8feRsRafnxx5Hw2ysTS11xGWBxZQ/edit?usp=sharing)
@@ -113,6 +118,15 @@
 + [分布式事务 Seata TCC 模式深度解析](https://mp.weixin.qq.com/s/G9vkficqBSpmtGITgsJPgw)
 + [蚂蚁金服-如何选择分布式事务解决方案？](https://www.jiqizhixin.com/articles/2020-06-01-10)
 + [分布式一致性之两阶段提交协议、三阶提交协议](https://zhuanlan.zhihu.com/p/35616810)
+
+
+## Zookeeper
++ [鲁班学院-Zookeeper源码剖析（代码注释在本机）](https://www.bilibili.com/video/BV1Vy4y1C7Rf?p=8)
++ [深入浅出Zookeeper（一） Zookeeper架构及FastLeaderElection机制](http://www.jasongj.com/zookeeper/fastleaderelection/)
++ [深入浅出Zookeeper（二） 基于Zookeeper的分布式锁与领导选举](http://www.jasongj.com/zookeeper/distributedlock/)
++ [Curator 框架介绍](https://zhmin.github.io/2019/09/02/zookeeper-curator/)
++ [Paxos 算法学习](https://zhmin.github.io/2019/09/11/paxos/)
+
 
 ## Mysql数据库+索引
 + [鲁班学院-Mysql系列视频讲解（非常透彻）](https://www.bilibili.com/video/BV18A411E7Eb)
@@ -126,9 +140,3 @@
 
 ## Other Knowledge
 + [短网址](https://juejin.im/entry/6844903891675381768)
-
-## TODO
-- 基于Netty手写RPC框架/Web框架
-	- https://zhuanlan.zhihu.com/p/35720383
-	- https://zhuanlan.zhihu.com/p/36064672
-
