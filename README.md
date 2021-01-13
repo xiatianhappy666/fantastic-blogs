@@ -137,6 +137,8 @@
 + [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
 
+## Redis
++ [Redis分布式锁 + 高并发系统的常见缓存问题&solution])(https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/Distributed/redis.md)
 
 ## Other Knowledge
 + [短网址](https://juejin.im/entry/6844903891675381768)
